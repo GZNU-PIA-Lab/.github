@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="./README.md">中文</a> · <strong>English</strong>
+  <a href="https://github.com/GZNU-PIA-Lab">中文</a> · <strong>English</strong>
 </p>
 
 <p align="center">

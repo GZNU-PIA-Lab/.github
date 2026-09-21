@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em>Perception, Interaction & Adaptation Laboratory · Guizhou Normal University</em>
+  <em>Guizhou Normal University</em>
 </p>
 
 ## About
@@ -14,9 +14,14 @@ Our work connects fundamental AI research with real-world intelligent systems.
 
 ## Research Focus
 
-| Perception | Interaction | Adaptation |
-| --- | --- | --- |
-| Visual, multimodal and sensor understanding in real environments. | Modeling and generation of human–object–environment interactions. | Reliable intelligence under distribution shifts, limited supervision and changing conditions. |
+**Perception**  
+Visual, multimodal and sensor understanding in real environments.
+
+**Interaction**  
+Modeling and generation of human–object–environment interactions.
+
+**Adaptation**  
+Reliable intelligence under distribution shifts, limited supervision and changing conditions.
 
 ## Research Areas
 
